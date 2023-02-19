@@ -1,4 +1,4 @@
-# Hello! My name is sungho!
+# Hello! My name is Sungho!
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungho0205&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=true)
 
@@ -11,3 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungho0205)](https://github.com/anuraghazra/github-readme-stats)
 
 Profile link: https://i.ibb.co/5v67Bs0/profile.png
+
+My website: https://sungho.xyz
