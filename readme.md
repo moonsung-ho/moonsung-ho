@@ -1,10 +1,15 @@
-# Hello! My name is Sungho!
+# Hello! I'm Sungho!
+
+### About me
+  I'm a 13 years-old student, living in South Korea🇰🇷. I am learning Swift, Javascript, etc. I started coding in 2020. In 2020, I had a lot of spare time due to COVID-19. So, I played with [Entry](https://playentry.org). Entry is basically a block-coding language, like Scratch. And then, I was interested in those languages like Python. At first, I tried to study python, but my [father](https://github.com/mununki) made me to learn Javascript because of how Javascript is easy to learn, and have a broad ways to use it. I learned HTML and CSS too. And later, I learned Python and Swift, too. Now I am only thirteen years old, and I have almost three years of coding experience. So I am very incompetent and not skilled. Please let me know if I made a mistake to my code, or asking something. My email address is <sungho.moon@aol.com>. I will answer you as best as I can.
+  
+### About My Services
+In 2022, I could make some websites. I made some fancy, beautiful and stupid websites. On a normal weekday of September, a brilliant idea just popped into my head. It was about an website(or an app) which can see the school meal(the term "geupsik" in Korea). Because of COVID, I had a lot of time to make something new. So, I just started to work on that. I almost completed it on October, not having the function to search schools from the api, also not having time table functionality. It was pretty nice, it is on [Github](https://github.com/moonsung-ho/old_geupsik), but it only supported schools those are in Seoul. So, I decided to make it more sexy. I added more functions like searching schools. It was good, but I wanted to lock in users. There were several daily users, but I wanted more. I thought that making an smartphone app could be the solution. First, I tried PWA(progressive web app). but the users did not noticed that the PWA is supported on my website. Then, I thought "How about making a native app?". So I tried an app, basically a webview. But it didn't have nice user experience. So, I decided to make this using React Native. React Native provided a full-app experience, but I can code it with Javascript, the most familiar language. So I made an app including time table feature. It provided meal info, time table info, and allergy info. So I named it "mealtime(급식시간)". I made it during my winter vacation and released it on March, 2022. The native app had way more good interfaces and user experiences. So I continued improving the app during the rest year. And in 2023, I eventually thought that React Native app was too slow. Also almost 90% of the users of the app used iOS. So, I decided to make an iOS native app using Swiftui. I developed it during my school days. It took several months to make, but I finally made it on June, 2023. I'm writing this on July 23th. So it just passed almost two months. Btw, my coding skills have improved during the last three years. I could barely make a simple game with a block-coding language, But nowadays, I can write a whole SwiftUI app by myself.
+
+
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonsung-ho&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=true)
 
 ![sungho0205](https://github-readme-stats.vercel.app/api?username=moonsung-ho&count_private=true&show_icons=true&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&bg_color=2e2e2e&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonsung-ho)](https://github.com/anuraghazra/github-readme-stats)
-
-I'm a 13 y/o student developer. I'm programming since 2020.
-I made [급식시간](https://github.com/moonsung-ho/mealtime-native)
