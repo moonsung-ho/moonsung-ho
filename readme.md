@@ -1,7 +1,7 @@
 # Hello! I'm Sungho!
 
 ### About me
-  I'm a 13 years-old student, living in South Korea🇰🇷.
+  I'm a 14-year-old student, living in South Korea🇰🇷.
 
 
 
